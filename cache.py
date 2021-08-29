@@ -71,8 +71,8 @@ def hero():
         print("Contact me on telegram @Prithvihackz")
         print("Enter ",newperiod," Parity Price :")
         current=input()
-        checkRED = current %10
-        print(checkRED)
+        current=int(current)
+        checkRED =current%10
         if(checkRED==0 or checkRED ==2 or checkRED ==4 or checkRED ==6 or checkRED==8):
             previouscolour=1
         else:
