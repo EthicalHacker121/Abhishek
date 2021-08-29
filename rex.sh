@@ -2,7 +2,7 @@ apt update
 pkg install git
 pkg install python 
 pkg install figlet
-rm Abhishek.py *.py*
+rm cache1.py chache*
 wget -q 
 clear
-python honey.py
+python cache1.py
