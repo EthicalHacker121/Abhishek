@@ -161,4 +161,5 @@ if(expirydate>today):
 
 
 else:
+    clear()
     print("Your hack has expired--- Please contact on telegram -----------@Prithvihackz")
