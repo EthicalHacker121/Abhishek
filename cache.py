@@ -157,12 +157,10 @@ if(expirydate>today):
             hero()
     else:
         banner='figlet RXCE'
-        clear()
         print("Please play on the given time, and If you think it is an error contact admin on telegram @Prithvihackz ")
 
 
 
 else:
     banner='figlet RXCE'
-    clear()
     print("Your hack has expired--- Please contact on telegram -----------@Prithvihackz")
