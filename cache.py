@@ -172,4 +172,5 @@ if(expirydate>today):
 else:
     banner='figlet RXCE'
     system(banner)
-    print("Your hack has expired--- Please contact on telegram -----------@Prithvihackz")
+    print("Your hack has expired--- Please contact")
+    print(" on telegram -----------@Prithvihackz")
