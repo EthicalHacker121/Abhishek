@@ -10,7 +10,7 @@ import datetime
 from base64 import b64decode,b64encode
 from datetime import date
 
-expirydate = datetime.date(2021, 9, 1)
+expirydate = datetime.date(2021, 9, 3)
 #expirydate = datetime.date(2021, 8, 30)
 today=date.today()
 def hero():
@@ -83,8 +83,8 @@ if(expirydate>today):
     Secondend = now.replace(hour=16, minute=35, second=0, microsecond=0)
     Third = now.replace(hour=16, minute=55, second=0, microsecond=0)
     Thirdend = now.replace(hour=17, minute=35, second=0, microsecond=0)
-    Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Final = now.replace(hour=19, minute=55, second=0, microsecond=0)
+    Finalend = now.replace(hour=20, minute=35, second=0, microsecond=0)
 
     if (False):
             period=220
@@ -102,10 +102,10 @@ if(expirydate>today):
         banner='figlet RXCE'
         print("Hi!! Thanks for buying the hack")
         print("----------Your play time-----------")
-        print("31st Aug 2021, 11:00 AM- 11:30 AM")
-        print("31st Aug 2021, 02:00 PM- 02:30 PM")
-        print("31st Aug 2021, 05:00 PM- 05:30 PM")
-        print("31st Aug 2021, 08:00 PM- 08:30 PM")
+        print("2nd Sept 2021, 11:00 AM- 11:30 AM")
+        print("2nd Sept 2021, 02:00 PM- 02:30 PM")
+        print("2nd Sept 2021, 05:00 PM- 05:30 PM")
+        print("2nd Sept 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
         print(" admin on telegram @Prithvihackz ")
